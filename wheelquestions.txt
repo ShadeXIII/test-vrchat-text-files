@@ -32,6 +32,7 @@ Drink 2 if your drinking a cocktail
 everyone drink 2
 Give a drink if you're drinking wine
 Drink for every different ingredient in your drink
+Take an actual shot
 ===============NSFW===================
 Drink if you've done BDSM
 Subs drink
@@ -423,6 +424,17 @@ Drink 2 if you can't handle spicy food
 Do you need glasses to see? If yes, give out 4, if no take 3
 Are you missing a body part? (ie. toe, finger, limb, eye) Take 3
 Are you missing any teeth? Take 3
+Americans drink
+South Americans drink
+Europeans Drink
+Aussies Drink
+Canadians drink
+Kiwis drink (people from New Zeland)
+If you're from the southern hemisphere drink
+If you're from the northern hemisphere drink
+Si hables Español te toca tomar
+Wenn Sie Deutsch sprechen, trinken Sie
+Finish your drink if you’ve completed a bingo card
 =============Drunken Aces================
 Drunken Aces server members take 4
 Drink if you know the world creator
