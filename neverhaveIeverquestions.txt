@@ -1,16 +1,177 @@
-=========A===============
-1A
-2A
-3A
-==========B=============
-1B
-2B
-3B
-==========C=============
-1C
-2C
-3C
-==========D=============
-1D
-2D
-3D
+=========Basic===============
+Never have I ever seen a kangaroo in real life.
+Never have I ever driven a car.
+Never have I ever drank at a bar by myself.
+Never have I ever visited someone in the hospital.
+Never have I ever been to a funeral.
+Never have I ever been in a helicopter.
+Never have I ever been in a hot air balloon.
+Never have I ever gone skydiving.
+Never have I ever had a cavity.
+Never have I ever had a root canal.
+Never have I ever been out of the country.
+Never have I ever traveled to Australia.
+Never have I ever traveled to Canada.
+Never have I ever traveled to Japan.
+Never have I ever traveled to the UK.
+Never have I ever gotten a piercing.
+Never have I ever eaten an entire cake by myself.
+Never have I ever been to a wedding.
+Never have I ever been to a bachelor or bachelorette party.
+Never have I ever danced in the rain.
+Never have I ever seen an alligator in real life.
+Never have I ever been awake for 48 hours (or more) straight.
+Never have I ever hit a parked car.
+Never have I ever accidentally spread a rumor.
+Never have I ever knowingly spread a rumor.
+Never have I ever stopped to ask a stranger for directions.
+Never have I ever had anything stolen from me.
+Never have I ever answered the phone and pretended to be someone else.
+Never have I ever watched something I didn't like because it was popular, and I didn't want to be left out of the conversation.
+Never have I ever considered applying for a reality TV show.
+Never have I ever let someone win to make them feel better.
+Never have I ever eaten so much I had to undo the button of my pants.
+Never have I ever taken my shoes off on an airplane.
+Never have I ever argued with a stranger on social media.
+Never have I ever asked someone to lie on my behalf.
+Never have I ever been to the movies by myself.
+Never have I ever eaten by myself at a restaurant.
+Never have I ever caused a scene at a restaurant.
+Never have I ever been asked to leave a club, bar, or other public establishment.
+Never have I ever worn matching outfits with my pet.
+Never have I ever gotten sick and thrown up somewhere inconvenient.
+Never have I ever sent a compromising text to the wrong person.
+Never have I ever eaten something so spicy it made me sick.
+Never have I ever ridden a motorcycle.
+Never have I ever been on TV.
+Never have I ever pretended I was sick to get out of something.
+Never have I ever pretended to have a family emergency to get out of something.
+Never have I ever planned and executed an elaborate prank.
+Never have I ever thrown a punch.
+Never have I ever broken a bone.
+Never have I ever gotten stitches.
+Never have I ever lied about my age.
+Never have I ever had surgery of any kind.
+Never have I ever pulled an all-nighter.
+Never have I ever binged an entire TV show in one day.
+Never have I ever read an entire book in a day.
+Never have I ever met a celebrity.
+Never have I ever maxed out a credit card.
+Never have I ever had serious credit card debt.
+Never have I ever been blackout drunk.
+Never have I ever lied to get out of going to work or class.
+Never have I ever gotten a tattoo.
+Never have I ever used a toothbrush that wasn't mine.
+Never have I ever peed in a public pool.
+Never have I ever peed in the shower or bath.
+Never have I ever left gum under a desk or anywhere in public.
+Never have I ever clogged the toilet at someone else's house.
+Never have I ever clogged the toilet at a hotel.
+Never have I ever missed a flight.
+Never have I ever regifted a gift.
+Never have I ever read another person's texts off their phone.
+Never have I ever snooped through someone's room, cabinets, or closet.
+Never have I ever gone on a vacation by myself.
+Never have I ever eaten an entire pizza by myself.
+Never have I ever eaten a pint or more of ice cream by myself.
+Never have I ever saved someone's life.
+Never have I ever started a fire.
+Never have I ever crashed a party.
+Never have I ever gotten stopped by airport security.
+Never have I ever lied to my parents about where I was.
+Never have I ever run a 5K.
+Never have I ever run a marathon.
+Never have I ever made a speech in public.
+Never have I ever cheated in school.
+Never have I ever given someone a fake phone number.
+Never have I ever been sent to the principal's office.
+Never have I ever had detention.
+Never have I ever been taken to the hospital.
+Never have I ever cut my own hair.
+Never have I ever used someone else's Netflix password (or any other streaming service).
+Never have I ever dyed my own hair.
+Never have I ever lied to get out of plans with friends.
+Never have I ever eaten someone else's food from a communal fridge.
+Never have I ever lied on my resume.
+Never have I ever cut in line.
+Never have I ever blabbed someone else's secret.
+Never have I ever kept a secret for over a year.
+Never have I ever kept a secret for 10 years or longer.
+Never have I ever been in a bridal party.
+Never have I ever eaten food off the floor that broke the five-second rule.
+Never have I ever farted and blamed someone else.
+Never have I ever driven a stick shift.
+Never have I ever returned something after I wore it.
+Never have I ever gotten in a (pillow) fight.
+Never have I ever hitchhiked.
+Never have I ever donated blood.
+Never have I ever gotten in a (physical) fight.
+==========NSFW=============
+Never have I ever had a vacation fling in a foreign country.
+Never have I ever given a lap dance.
+Never have I ever been caught having sex.
+Never have I ever kissed someone twice my age.
+Never have I ever had a crush on a teacher or professor.
+Never have I ever hooked up with someone I met online.
+Never have I ever been in a love triangle.
+Never have I ever gone skinny-dipping.
+Never have I ever fallen asleep during sex.
+Never have I ever cheated on a significant other.
+Never have I ever role-played during sex.
+Never have I ever sexted.
+Never have I ever received a lap dance.
+Never have I ever had a one-night stand.
+Never have I ever had sex in a car.
+Never have I ever joined the mile-high club.(fucked on a plane)
+Never have I ever had a threesome.
+Never have I ever had sex in a public place.
+Never have I ever gotten or given a hickey.
+Never have I ever had a friend with benefits.
+Never have I ever gone to a strip club.
+Never have I ever gone streaking.
+Never have I ever gone commando.
+==========Statute of Limitations=============
+Never have I ever been pulled over while driving.
+Never have I ever asked lied to law enforcement.
+Never have I ever witnessed a crime.
+Never have I ever snuck my pet somewhere they weren't technically allowed to be.
+Never have I ever snuck into a movie.
+Never have I ever snuck into an authorized personnel only area.
+Never have I ever gone to work high.
+Never have I ever been arrested.
+Never have I ever snitched on someone and gotten them in trouble.
+Never have I ever stolen anything from a store.
+Never have I ever stolen something from a friend or family member.
+Never have I ever bribed someone.
+Never have I ever been an alibi for a lying friend.
+Never have I ever had or used a fake ID.
+Never have I ever tried marijuana.
+Never have I ever tried anything harder than marijuana.
+Never have I ever tried psychedelics.
+Never have I ever dined and dashed.
+Never have I ever had to go to court.
+Never have I ever driven without a license.
+Never have I ever gotten a speeding ticket.
+Never have I ever gotten a parking ticket.
+Never have I ever cried or flirted my way out of a ticket.
+Never have I ever parked in a handicap spot.
+==========Relationship=============
+Never have I ever ended a relationship over voicemail.
+Never have I ever ended a relationship over text.
+Never have I ever pretended to know about something I knew nothing about to impress a crush or date.
+Never have I ever been on a date just for a free meal.
+Never have I ever had a crush on a coworker.
+Never have I ever been on a blind date.
+Never have I ever set someone up on a blind date.
+Never have I ever drunk-dialed my ex.
+Never have I ever disliked a friend's significant other but kept my thoughts to myself.
+Never have I ever stood up a date.
+Never have I ever been dumped.
+Never have I ever broken up with someone.
+Never have I ever used a dating app.
+Never have I ever ghosted someone.
+Never have I ever slid into someone's DMs.
+Never have I ever had a crush on a friend's sibling.
+Never have I ever lied on a dating profile.
+Never have I ever sent a stranger a drink at a bar.
+Never have I ever tried to make an ex jealous.
