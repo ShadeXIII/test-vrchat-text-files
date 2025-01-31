@@ -1,179 +1,187 @@
 =========Basic===============
-seen a kangaroo in real life.
-driven a car.
-drank at a bar by myself.
-visited someone in the hospital.
-been to a funeral.
-been in a helicopter.
-been in a hot air balloon.
-gone skydiving.
-had a cavity.
-had a root canal.
-been out of the country.
-traveled to Australia.
-traveled to Canada.
-traveled to Japan.
-traveled to the UK.
-gotten a piercing.
-eaten an entire cake by myself.
-been to a wedding.
-been to a bachelor or bachelorette party.
-danced in the rain.
-seen an alligator in real life.
-been awake for 48 hours (or more) straight.
-hit a parked car.
-accidentally spread a rumor.
-knowingly spread a rumor.
-stopped to ask a stranger for directions.
-had anything stolen from me.
-answered the phone and pretended to be someone else.
-watched something I didn't like because it was popular, and I didn't want to be left out of the conversation.
-considered applying for a reality TV show.
-let someone win to make them feel better.
-eaten so much I had to undo the button of my pants.
-taken my shoes off on an airplane.
-argued with a stranger on social media.
-asked someone to lie on my behalf.
-been to the movies by myself.
-eaten by myself at a restaurant.
-caused a scene at a restaurant.
-been asked to leave a club, bar, or other public establishment.
-worn matching outfits with my pet.
-gotten sick and thrown up somewhere inconvenient.
-sent a compromising text to the wrong person.
-eaten something so spicy it made me sick.
-ridden a motorcycle.
-been on TV.
-pretended I was sick to get out of something.
-pretended to have a family emergency to get out of something.
-planned and executed an elaborate prank.
-thrown a punch.
-broken a bone.
-gotten stitches.
-lied about my age.
-had surgery of any kind.
-pulled an all-nighter.
-binged an entire TV show in one day.
-read an entire book in a day.
-met a celebrity.
-maxed out a credit card.
-had serious credit card debt.
-been blackout drunk.
-lied to get out of going to work or class.
-gotten a tattoo.
-used a toothbrush that wasn't mine.
-peed in a public pool.
-peed in the shower or bath.
-laughed so hard I peed.
-left gum under a desk or anywhere in public.
-clogged the toilet at someone else's house.
-clogged the toilet at a hotel.
-missed a flight.
-regifted a gift.
-read another person's texts off their phone.
-snooped through someone's room, cabinets, or closet.
-gone on a vacation by myself.
-eaten an entire pizza by myself.
-eaten a pint or more of ice cream by myself.
-saved someone's life.
-started a fire.
-crashed a party.
-gotten stopped by airport security.
-lied to my parents about where I was.
-run a 5K.
-run a marathon.
-made a speech in public.
-cheated in school.
-given someone a fake phone number.
-been sent to the principal's office.
-had detention.
-been taken to the hospital.
-cut my own hair.
-used someone else's Netflix password (or any other streaming service).
-dyed my own hair.
-lied to get out of plans with friends.
-eaten someone else's food from a communal fridge.
-lied on my resume.
-cut in line.
-blabbed someone else's secret.
-kept a secret for over a year.
-kept a secret for 10 years or longer.
-been in a bridal party.
-eaten food off the floor that broke the five-second rule.
-farted and blamed someone else.
-driven a stick shift.
-returned something after I wore it.
-gotten in a (pillow) fight.
-hitchhiked.
-donated blood.
-gotten in a (physical) fight.
-bought 5 or more dlcs for a single game.
+Have you seen a kangaroo in real life?
+Have you driven a car?
+Have you drank at a bar by myself?
+Have you visited someone in the hospital?
+Have you been to a funeral?
+Have you been in a helicopter?
+Have you been in a hot air balloon?
+Have you gone skydiving?
+Have you had a cavity?
+Have you had a root canal?
+Have you been out of your home country?
+Have you traveled to Australia?
+Have you traveled to Canada?
+Have you traveled to Japan?
+Have you traveled to the UK?
+Have you gotten a piercing?
+Have you eaten an entire cake by myself?
+Have you been to a wedding?
+Have you been to a bachelor or bachelorette party?
+Have you danced in the rain?
+Have you seen an alligator in real life?
+Have you been awake for 48 hours (or more) straight?
+Have you hit a parked car?
+Have you accidentally spread a rumor?
+Have you knowingly spread a rumor?
+Have you stopped to ask a stranger for directions?
+Have you had anything stolen from me?
+Have you answered the phone and pretended to be someone else?
+Have you watched something I didn't like because it was popular, and I didn't want to be left out of the conversation?
+Have you considered applying for a reality TV show?
+Have you let someone win to make them feel better?
+Have you eaten so much I had to undo the button of my pants?
+Have you taken my shoes off on an airplane?
+Have you argued with a stranger on social media?
+Have you asked someone to lie on my behalf?
+Have you been to the movies by myself?
+Have you eaten by myself at a restaurant?
+Have you caused a scene at a restaurant?
+Have you been asked to leave a club, bar, or other public establishment?
+Have you worn matching outfits with my pet?
+Have you gotten sick and thrown up somewhere inconvenient?
+Have you sent a compromising text to the wrong person?
+Have you eaten something so spicy it made me sick?
+Have you ridden a motorcycle?
+Have you been on TV?
+Have you pretended I was sick to get out of something?
+Have you pretended to have a family emergency to get out of something?
+Have you planned and executed an elaborate prank?
+Have you thrown a punch?
+Have you broken a bone?
+Have you gotten stitches?
+Have you lied about my age?
+Have you had surgery of any kind?
+Have you pulled an all-nighter?
+Have you binged an entire TV show in one day?
+Have you read an entire book in a day?
+Have you met a celebrity?
+Have you maxed out a credit card?
+Have you had serious credit card debt?
+Have you been blackout drunk?
+Have you lied to get out of going to work or class?
+Have you gotten a tattoo?
+Have you used a toothbrush that wasn't mine?
+Have you peed in a public pool?
+Have you peed in the shower or bath?
+Have you laughed so hard I peed?
+Have you left gum under a desk or anywhere in public?
+Have you clogged the toilet at someone else's house?
+Have you clogged the toilet at a hotel?
+Have you missed a flight?
+Have you regifted a gift?
+Have you read another person's texts off their phone?
+Have you snooped through someone's room, cabinets, or closet?
+Have you gone on a vacation by myself?
+Have you eaten an entire pizza by myself?
+Have you eaten a pint or more of ice cream by myself?
+Have you saved someone's life?
+Have you started a fire?
+Have you crashed a party?
+Have you gotten stopped by airport security?
+Have you lied to my parents about where I was?
+Have you run a 5K?
+Have you run a marathon?
+Have you made a speech in public?
+Have you cheated in school?
+Have you given someone a fake phone number?
+Have you been sent to the principal's office?
+Have you had detention?
+Have you been taken to the hospital?
+Have you cut my own hair?
+Have you used someone else's Netflix password (or any other streaming service)?
+Have you dyed my own hair?
+Have you lied to get out of plans with friends?
+Have you eaten someone else's food from a communal fridge?
+Have you lied on my resume?
+Have you cut in line?
+Have you blabbed someone else's secret?
+Have you kept a secret for over a year?
+Have you kept a secret for 10 years or longer?
+Have you been in a bridal party?
+Have you eaten food off the floor that broke the five-second rule?
+Have you farted and blamed someone else?
+Have you driven a stick shift?
+Have you returned something after I wore it?
+Have you gotten in a (pillow) fight?
+Have you hitchhiked?
+Have you donated blood?
+Have you gotten in a (physical) fight?
+Have you bought 5 or more dlcs for a single game?
 ==========NSFW=============
-had a vacation fling in a foreign country.
-given a lap dance.
-been caught having sex.
-kissed someone twice my age.
-had a crush on a teacher or professor.
-hooked up with someone I met online.
-been in a love triangle.
-gone skinny-dipping.
-fallen asleep during sex.
-cheated on a significant other.
-role-played during sex.
-sexted.
-received a lap dance.
-had a one-night stand.
-had sex in a car.
-joined the mile-high club.(fucked on a plane)
-had a threesome.
-had sex in a public place.
-gotten or given a hickey.
-had a friend with benefits.
-gone to a strip club.
-gone streaking.
-gone commando.
+Have you had a vacation fling in a foreign country?
+Have you given a lap dance?
+Have you been caught having sex?
+Have you kissed someone twice my age?
+Have you had a crush on a teacher or professor?
+Have you hooked up with someone I met online?
+Have you been in a love triangle?
+Have you gone skinny-dipping?
+Have you fallen asleep during sex?
+Have you cheated on a significant other?
+Have you role-played during sex?
+Have you sexted?
+Have you received a lap dance?
+Have you had a one-night stand?
+Have you had sex in a car?
+Have you joined the mile-high club?(fucked on a plane)
+Have you had a threesome?
+Have you had sex in a public place?
+Have you gotten or given a hickey?
+Have you had a friend with benefits?
+Have you gone to a strip club?
+Have you gone streaking?
+Have you gone commando?
 ==========Statute of Limitations=============
-been pulled over while driving.
-asked lied to law enforcement.
-witnessed a crime.
-snuck my pet somewhere they weren't technically allowed to be.
-snuck into a movie.
-snuck into an authorized personnel only area.
-gone to work high.
-been arrested.
-snitched on someone and gotten them in trouble.
-stolen anything from a store.
-stolen something from a friend or family member.
-bribed someone.
-been an alibi for a lying friend.
-had or used a fake ID.
-tried marijuana.
-tried anything harder than marijuana.
-tried psychedelics.
-dined and dashed.
-had to go to court.
-driven without a license.
-gotten a speeding ticket.
-gotten a parking ticket.
-cried or flirted my way out of a ticket.
-parked in a handicap spot.
+Have you been pulled over while driving?
+Have you asked lied to law enforcement?
+Have you witnessed a crime?
+Have you snuck my pet somewhere they weren't technically allowed to be?
+Have you snuck into a movie?
+Have you snuck into an authorized personnel only area?
+Have you gone to work high?
+Have you been arrested?
+Have you snitched on someone and gotten them in trouble?
+Have you stolen anything from a store?
+Have you stolen something from a friend or family member?
+Have you bribed someone?
+Have you been an alibi for a lying friend?
+Have you had or used a fake ID?
+Have you tried marijuana?
+Have you tried anything harder than marijuana?
+Have you tried psychedelics?
+Have you dined and dashed?
+Have you had to go to court?
+Have you driven without a license?
+Have you gotten a speeding ticket?
+Have you gotten a parking ticket?
+Have you cried or flirted my way out of a ticket?
+Have you parked in a handicap spot?
 ==========Relationship=============
-ended a relationship over voicemail.
-ended a relationship over text.
-pretended to know about something I knew nothing about to impress a crush or date.
-been on a date just for a free meal.
-had a crush on a coworker.
-been on a blind date.
-set someone up on a blind date.
-drunk-dialed my ex.
-disliked a friend's significant other but kept my thoughts to myself.
-stood up a date.
-been dumped.
-broken up with someone.
-used a dating app.
-ghosted someone.
-slid into someone's DMs.
-had a crush on a friend's sibling.
-lied on a dating profile.
-sent a stranger a drink at a bar.
-tried to make an ex jealous.
+Have you ended a relationship over voicemail?
+Have you ended a relationship over text?
+Have you pretended to know about something I knew nothing about to impress a crush or date?
+Have you been on a date just for a free meal?
+Have you had a crush on a coworker?
+Have you been on a blind date?
+Have you set someone up on a blind date?
+Have you drunk-dialed my ex?
+Have you disliked a friend's significant other but kept my thoughts to myself?
+Have you stood up a date?
+Have you been dumped?
+Have you broken up with someone?
+Have you used a dating app?
+Have you ghosted someone?
+Have you slid into someone's DMs?
+Have you had a crush on a friend's sibling?
+Have you lied on a dating profile?
+Have you sent a stranger a drink at a bar?
+Have you tried to make an ex jealous?
+==========Games should make into drink up====================
+Have you played Donkey kong country?
+Have you played Donkey kong country 2?
+Have you played Donkey kong country 3?
+Have you played fork knife?
+Have you played over slop?
+Have you played l4d or l4d2?
+Have you played leage of legends?
