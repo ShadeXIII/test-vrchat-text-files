@@ -1,0 +1,2 @@
+recepie goes Iced,Aged,Blended,A,B,P,F,K  example: 11105020305--, -- is optional karmo, two chars for each ingredient, 1 for true 0 for false
+1000200000305
