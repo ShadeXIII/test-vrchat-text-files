@@ -93,6 +93,15 @@ Are you into feet? If you admit it give out 5, if no or pass take 3
 Are you into BDSM? If you admit it give out 5, if no or pass take 3
 Weirdest thing you’ve done in bed, or take 4
 Weirdest thing you’ve masterbated to, or take 4
+Drink 2 if you've had sex in a public place
+Drink if you've sent a dirty text to the wrong person
+Drink if you've been to a sex shop
+Drink 2 if you've had sex in the ocean or a swimming pool
+Drink 3 if you've slept with a co-worker
+Drink if you've had to hide a hickey
+Give 2 if you've acted out your sexual fantasy
+Drink 3 if you've used handcuffs or something similar in bed
+Drink 4 if you've filmed yourself having sex
 ==============VRChat=================
 Quest users drink
 Trusted users drink
@@ -327,7 +336,7 @@ Drink if you've had food delivered this week
 Drink if you live within 30km/20miles of the sea
 Drink one for every family member you live with
 Drink if you live alone
-Drink if you work for the goverment
+Drink if you work for the government
 Drink if you've been in a military vehicle
 Drink if you've been to the Middle East
 Drink if you've tried haggis
@@ -435,6 +444,47 @@ If you're from the northern hemisphere drink
 Si hables Español te toca tomar
 Wenn Sie Deutsch sprechen, trinken Sie
 Finish your drink if you’ve completed a bingo card
+Drink 2 if you've trespassed
+Drink 3 if you've lied to someone in the room
+Drink if you've dined and dashed
+Drink 2 if you've cheated on a test
+Drink 2 if you've spent more than 200 dollars on a night out
+Drink 3 if you've edited your selfies
+Drink 5 if you've pretended to be someone else
+Drink 1 if you've paid a train fair
+Drink 3 if you've skipped class
+Drink 2 if you've been catfished
+Drink 5 if you've catfished someone
+Drink 5 if you've been on more than one date in a day
+Drink 2 if you've peed in the shower
+Drink 2 if you've thrown up on someone
+Give 3 if you've locked yourself out of your house
+Give 2 if you've locked yourself out of your car
+Drink 1 if you've dropped your phone in the toilet
+Drink 3 if you've not eaten before a night out to get more drunk
+Drink 2 if you've used a pickup line
+Give 2 if you've ripped your clothes in public
+Drink 3 if you've gone to work drunk
+Drink 2 if you've shown up uninvited
+Drink 1 if you've fallen asleep at a party
+Drink 2 if you've crashed a wedding
+Give 2 if you've chipped a tooth
+Drink 3 if you've used someone else's toothbrush
+Give 2 if you've lied to someone about how cute their baby was
+Drink 3 if you've ignored someone you knew in public
+Drink 1 if you've pretended to be on the phone when you weren't
+Give 2 if you've eaten dog or cat food
+Drink 3 if you've eaten a bug knowingly
+Drink 2 if you've spoken while on mute in a meeting
+Give 3 if you've cried at work
+Drink 3 if you've attended a work event just for free food or drinks
+Drink 2 if you've used a fake ID
+Drink 3 if you've toilet-papered someone's house
+Drink 4 if you've convinced a friend to dump a partner
+Drink 3 if you've convinced a partner to dump a friend
+Drink 2 if you've thought a friend's baby was ugly
+Drink 3 if you've broken into a friend's house
+Drink 2 if you've stalked a friend while they were on a date
 =============Drunken Aces================
 Drunken Aces server members take 4
 Drink if you know the world creator
@@ -448,3 +498,6 @@ Did Shade deal your cards today? Take 3. Shade deal out five
 Everyone point at Phil and yell cheers, all drink 
 Everyone bow to Persephone, last one to bow takes 3
 Everyone drink for each time you have lowered Nightbit's volume
+Everyone drink if a swamplord song is playing
+Everyone drink if a Mind and Iron mix is playing
+Everyone drink to remember those that fell in the Shaq gnome war
