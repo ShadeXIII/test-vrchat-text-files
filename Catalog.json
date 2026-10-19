@@ -16,6 +16,7 @@
                     "Amount" : ""
                 }
             ],
+            "Description" : "Bubbly, and citricy drink",
             "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
             "AdditionalInformation" : ""
         },
@@ -39,6 +40,7 @@
                     "Amount" : ""
                 }
             ],
+            "Description" : "A bit sweet and lemony",
             "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
             "AdditionalInformation" : ""
         }
