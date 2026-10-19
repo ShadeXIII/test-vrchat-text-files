@@ -1,0 +1,46 @@
+{
+    "Drinks" : 
+    [
+        {
+            "Name": "Cobalt Velvet (How to drink ver.)",
+            "Ingredients" :
+            [
+                {
+                    "IngredientName" : "Gin",
+                    "Substitue" : "",
+                    "Amount" : ""
+                },
+                {
+                    "IngredientName" : "Blue Curaquo",
+                    "Substitue" : "",
+                    "Amount" : ""
+                }
+            ],
+            "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
+            "AdditionalInformation" : ""
+        },
+        {
+            "Name": "Suplex (How to drink ver.)",
+            "Ingredients" :
+            [
+                {
+                    "IngredientName" : "Rum",
+                    "Substitue" : "",
+                    "Amount" : ""
+                },
+                {
+                    "IngredientName" : "Amaro",
+                    "Substitue" : "",
+                    "Amount" : ""
+                },
+                {
+                    "IngredientName" : "Simple Syrup",
+                    "Substitue" : "",
+                    "Amount" : ""
+                }
+            ],
+            "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
+            "AdditionalInformation" : ""
+        }
+    ]
+}
