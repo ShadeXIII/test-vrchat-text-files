@@ -7,12 +7,12 @@
             [
                 {
                     "IngredientName" : "Gin",
-                    "Substitue" : "",
+                    "Substitute" : "",
                     "Amount" : ""
                 },
                 {
                     "IngredientName" : "Blue Curaquo",
-                    "Substitue" : "",
+                    "Substitute" : "",
                     "Amount" : ""
                 }
             ],
@@ -25,17 +25,17 @@
             [
                 {
                     "IngredientName" : "Rum",
-                    "Substitue" : "",
+                    "Substitute" : "",
                     "Amount" : ""
                 },
                 {
                     "IngredientName" : "Amaro",
-                    "Substitue" : "",
+                    "Substitute" : "",
                     "Amount" : ""
                 },
                 {
                     "IngredientName" : "Simple Syrup",
-                    "Substitue" : "",
+                    "Substitute" : "",
                     "Amount" : ""
                 }
             ],
