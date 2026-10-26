@@ -7,7 +7,7 @@
             [
                 {
                     "IngredientName" : "Gin",
-                    "Substitute" : "a",
+                    "Substitute" : "",
                     "Amount" : "1 oz"
                 },
                 {
@@ -17,12 +17,12 @@
                 },
                 {
                     "IngredientName" : "Vodka",
-                    "Substitute" : "a",
+                    "Substitute" : "",
                     "Amount" : "1 oz"
                 },
                 {
                     "IngredientName" : "Grape fruit soda",
-                    "Substitute" : "a",
+                    "Substitute" : "",
                     "Amount" : "Topper"
                 }
             ],
@@ -98,6 +98,26 @@
                     "IngredientName" : "Rum",
                     "Substitute" : "Check additional info for what rums",
                     "Amount" :"2 oz"
+                }
+            ]
+        },
+        {
+            "Name" : "Bad Touch",
+            "Description" : "",
+            "Method" : "Put half the green sour apple liquor and all of the rest of the ingredients into a shaker, and shake. Pour in glass, use bakc of spoon to dribble the rest of the green sour apple liquor to the top. Serve with lime peel garnish.",
+            "AdditionalInformation" : "White wine should be soft fruity, semi sweet, non-sparkling, From the game VA-11 Hall-A",
+            "KeyWords" : "Sour",
+            "Ingredients" :
+            [
+                {
+                    "IngredientName" : "Green Sour apple Schnapps",
+                    "Substitute" : "",
+                    "Amount" :"15 ml"
+                },
+                {
+                    "IngredientName" : "White wine",
+                    "Substitute" : "",
+                    "Amount" : "100ml"
                 }
             ]
         }
