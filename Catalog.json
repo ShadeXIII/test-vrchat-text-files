@@ -8,17 +8,28 @@
                 {
                     "IngredientName" : "Gin",
                     "Substitute" : "",
-                    "Amount" : ""
+                    "Amount" : "1 oz"
                 },
                 {
-                    "IngredientName" : "Blue Curaquo",
+                    "IngredientName" : "Blue Curacao",
+                    "Substitute" : "Cointreau or Tripple Sec",
+                    "Amount" : ".5 oz"
+                },
+                {
+                    "IngredientName" : "Vodka",
                     "Substitute" : "",
-                    "Amount" : ""
+                    "Amount" : "1 oz"
+                },
+                {
+                    "IngredientName" : "Grape fruit soda",
+                    "Substitute" : "",
+                    "Amount" : "Topper"
                 }
             ],
             "Description" : "Bubbly, and citricy drink",
             "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
-            "AdditionalInformation" : ""
+            "AdditionalInformation" : "If you Subed the Blue Curacao it won't be blue of course",
+            "KeyWords" : "Bubbly, Carbonated, Citrus"
         },
         {
             "Name": "Suplex (How to drink ver.)",
@@ -27,22 +38,68 @@
                 {
                     "IngredientName" : "Rum",
                     "Substitute" : "",
-                    "Amount" : ""
+                    "Amount" : "1 oz"
                 },
                 {
-                    "IngredientName" : "Amaro",
+                    "IngredientName" : "Vodka",
                     "Substitute" : "",
-                    "Amount" : ""
+                    "Amount" :"1 oz"
+                },
+                {
+                    "IngredientName" : "Suze",
+                    "Substitute" : "Amaro",
+                    "Amount" : ".25 oz"
+                },
+                {
+                    "IngredientName" : "Lemon Juice",
+                    "Substitute" : "Lime Juice I guess",
+                    "Amount" : "0.5 oz"
                 },
                 {
                     "IngredientName" : "Simple Syrup",
                     "Substitute" : "",
-                    "Amount" : ""
+                    "Amount" : "1 oz"
                 }
             ],
             "Description" : "A bit sweet and lemony",
             "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
-            "AdditionalInformation" : ""
+            "AdditionalInformation" : "",
+            "KeyWords" : "Citrus, Dry"
+        },
+        {
+            "Name" : "Flaming Maoi (How to Drink Ver.)",
+            "Description" : "",
+            "Method" : "Pour ingredients into shaker with ice and shake, crush ice and put into tiki mug, set half lime on top, then 2 sugar cubes, small amount of 151 rum on cubes, the light cubes on fire, and sprinkle cinamon onto fire.",
+            "AdditionalInformation" : "The Rum here is a combo of Plantation 5 year 1oz, Simth + Cross .5oz, Lemon hart 151 .5oz.",
+            "KeyWords" : "",
+            "Ingredients" :
+            [
+                {
+                    "IngredientName" : "Lime Juice",
+                    "Substitute" : "",
+                    "Amount" : "1 oz"
+                },
+                {
+                    "IngredientName" : "Orgeat",
+                    "Substitute" : "",
+                    "Amount" :".5 oz"
+                },
+                {
+                    "IngredientName" : "Grenadine",
+                    "Substitute" : "",
+                    "Amount" :".5 oz"
+                },
+                {
+                    "IngredientName" : "Passoa",
+                    "Substitute" : "",
+                    "Amount" :"1 oz"
+                },
+                {
+                    "IngredientName" : "Rum",
+                    "Substitute" : "Check additional info for what rums",
+                    "Amount" :"2 oz"
+                }
+            ]
         }
     ]
 }
