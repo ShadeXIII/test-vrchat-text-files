@@ -7,7 +7,7 @@
             [
                 {
                     "IngredientName" : "Gin",
-                    "Substitute" : "",
+                    "Substitute" : "a",
                     "Amount" : "1 oz"
                 },
                 {
@@ -17,12 +17,12 @@
                 },
                 {
                     "IngredientName" : "Vodka",
-                    "Substitute" : "",
+                    "Substitute" : "a",
                     "Amount" : "1 oz"
                 },
                 {
                     "IngredientName" : "Grape fruit soda",
-                    "Substitute" : "",
+                    "Substitute" : "a",
                     "Amount" : "Topper"
                 }
             ],
