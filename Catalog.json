@@ -1,125 +1,124 @@
 {
-    "Drinks" : 
-    [
-        {
-            "Name": "Cobalt Velvet (How to drink ver.)",
-            "Ingredients" :
-            [
-                {
-                    "IngredientName" : "Gin",
-                    "Substitute" : "",
-                    "Amount" : "1 oz"
-                },
-                {
-                    "IngredientName" : "Blue Curacao",
-                    "Substitute" : "Cointreau or Tripple Sec",
-                    "Amount" : ".5 oz"
-                },
-                {
-                    "IngredientName" : "Vodka",
-                    "Substitute" : "",
-                    "Amount" : "1 oz"
-                },
-                {
-                    "IngredientName" : "Grape fruit soda",
-                    "Substitute" : "",
-                    "Amount" : "Topper"
-                }
-            ],
-            "Description" : "Bubbly, and citricy drink",
-            "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
-            "AdditionalInformation" : "If you Subed the Blue Curacao it won't be blue of course",
-            "KeyWords" : "Bubbly, Carbonated, Citrus"
-        },
-        {
-            "Name": "Suplex (How to drink ver.)",
-            "Ingredients" :
-            [
-                {
-                    "IngredientName" : "Rum",
-                    "Substitute" : "",
-                    "Amount" : "1 oz"
-                },
-                {
-                    "IngredientName" : "Vodka",
-                    "Substitute" : "",
-                    "Amount" :"1 oz"
-                },
-                {
-                    "IngredientName" : "Suze",
-                    "Substitute" : "Amaro",
-                    "Amount" : ".25 oz"
-                },
-                {
-                    "IngredientName" : "Lemon Juice",
-                    "Substitute" : "Lime Juice I guess",
-                    "Amount" : "0.5 oz"
-                },
-                {
-                    "IngredientName" : "Simple Syrup",
-                    "Substitute" : "",
-                    "Amount" : "1 oz"
-                }
-            ],
-            "Description" : "A bit sweet and lemony",
-            "Method" : "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
-            "AdditionalInformation" : "",
-            "KeyWords" : "Citrus, Dry"
-        },
-        {
-            "Name" : "Flaming Maoi (How to Drink Ver.)",
-            "Description" : "",
-            "Method" : "Pour ingredients into shaker with ice and shake, crush ice and put into tiki mug, set half lime on top, then 2 sugar cubes, small amount of 151 rum on cubes, the light cubes on fire, and sprinkle cinamon onto fire.",
-            "AdditionalInformation" : "The Rum here is a combo of Plantation 5 year 1oz, Simth + Cross .5oz, Lemon hart 151 .5oz.",
-            "KeyWords" : "",
-            "Ingredients" :
-            [
-                {
-                    "IngredientName" : "Lime Juice",
-                    "Substitute" : "",
-                    "Amount" : "1 oz"
-                },
-                {
-                    "IngredientName" : "Orgeat",
-                    "Substitute" : "",
-                    "Amount" :".5 oz"
-                },
-                {
-                    "IngredientName" : "Grenadine",
-                    "Substitute" : "",
-                    "Amount" :".5 oz"
-                },
-                {
-                    "IngredientName" : "Passoa",
-                    "Substitute" : "",
-                    "Amount" :"1 oz"
-                },
-                {
-                    "IngredientName" : "Rum",
-                    "Substitute" : "Check additional info for what rums",
-                    "Amount" :"2 oz"
-                }
-            ]
-        },
-        {
-            "Name" : "Bad Touch",
-            "Description" : "",
-            "Method" : "Put half the green sour apple liquor and all of the rest of the ingredients into a shaker, and shake. Pour in glass, use bakc of spoon to dribble the rest of the green sour apple liquor to the top. Serve with lime peel garnish.",
-            "AdditionalInformation" : "White wine should be soft fruity, semi sweet, non-sparkling, From the game VA-11 Hall-A",
-            "KeyWords" : "Sour",
-            "Ingredients" :
-            [
-                {
-                    "IngredientName" : "Green Sour apple Schnapps",
-                    "Substitute" : "",
-                    "Amount" :"15 ml"
-                },
-                {
-                    "IngredientName" : "White wine",
-                    "Substitute" : "",
-                    "Amount" : "100ml"
-                }
-            ]
-        }
+    "Drinks": [
+      {
+        "Name": "Cobalt Velvet (How to drink ver.)",
+        "Method": "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
+        "Description": "Bubbly, and citricy drink",
+        "AdditionalInformation": "If you Subed the Blue Curacao it won't be blue of course",
+        "KeyWords": "Bubbly, Carbonated, Citrus",
+        "CanMake": "No",
+        "Ingredients": [
+          {
+            "IngredientName": "Gin",
+            "Substitute": "",
+            "Amount": "1 oz"
+          },
+          {
+            "IngredientName": "Blue Curacao",
+            "Substitute": "Cointreau or Tripple Sec",
+            "Amount": ".5 oz"
+          },
+          {
+            "IngredientName": "Vodka",
+            "Substitute": "",
+            "Amount": "1 oz"
+          },
+          {
+            "IngredientName": "Grape fruit soda",
+            "Substitute": "",
+            "Amount": "Topper"
+          }
+        ]
+      },
+      {
+        "Name": "Suplex (How to drink ver.)",
+        "Method": "Add all drinks to shaker and mix. Top with club soda or grapefruit soda.",
+        "Description": "A bit sweet and lemony",
+        "AdditionalInformation": "",
+        "KeyWords": "Citrus, Dry",
+        "CanMake": "No",
+        "Ingredients": [
+          {
+            "IngredientName": "Rum",
+            "Substitute": "",
+            "Amount": "1 oz"
+          },
+          {
+            "IngredientName": "Vodka",
+            "Substitute": "",
+            "Amount": "1 oz"
+          },
+          {
+            "IngredientName": "Suze",
+            "Substitute": "Amaro",
+            "Amount": ".25 oz"
+          },
+          {
+            "IngredientName": "Lemon Juice",
+            "Substitute": "Lime Juice I guess",
+            "Amount": "0.5 oz"
+          },
+          {
+            "IngredientName": "Simple Syrup",
+            "Substitute": "",
+            "Amount": "1 oz"
+          }
+        ]
+      },
+      {
+        "Name": "Flaming Maoi (How to Drink Ver.)",
+        "Method": "Pour ingredients into shaker with ice and shake, crush ice and put into tiki mug, set half lime on top, then 2 sugar cubes, small amount of 151 rum on cubes, the light cubes on fire, and sprinkle cinamon onto fire.",
+        "Description": "",
+        "AdditionalInformation": "The Rum here is a combo of Plantation 5 year 1oz, Simth + Cross .5oz, Lemon hart 151 .5oz.",
+        "KeyWords": "",
+        "CanMake": "No",
+        "Ingredients": [
+          {
+            "IngredientName": "Lime Juice",
+            "Substitute": "",
+            "Amount": "1 oz"
+          },
+          {
+            "IngredientName": "Orgeat",
+            "Substitute": "",
+            "Amount": ".5 oz"
+          },
+          {
+            "IngredientName": "Grenadine",
+            "Substitute": "",
+            "Amount": ".5 oz"
+          },
+          {
+            "IngredientName": "Passoa",
+            "Substitute": "",
+            "Amount": "1 oz"
+          },
+          {
+            "IngredientName": "Rum",
+            "Substitute": "Check additional info for what rums",
+            "Amount": "2 oz"
+          }
+        ]
+      },
+      {
+        "Name": "Bad Touch",
+        "Method": "Put half the green sour apple liquor and all of the rest of the ingredients into a shaker, and shake. Pour in glass, use bakc of spoon to dribble the rest of the green sour apple liquor to the top. Serve with lime peel garnish.",
+        "Description": "",
+        "AdditionalInformation": "White wine should be soft fruity, semi sweet, non-sparkling, From the game VA-11 Hall-A",
+        "KeyWords": "Sour",
+        "CanMake": "No",
+        "Ingredients": [
+          {
+            "IngredientName": "Green Sour apple Schnapps",
+            "Substitute": "",
+            "Amount": "15 ml"
+          },
+          {
+            "IngredientName": "White wine",
+            "Substitute": "",
+            "Amount": "100ml"
+          }
+        ]
+      }
     ]
-}
+  }
